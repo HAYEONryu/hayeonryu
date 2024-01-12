@@ -4,14 +4,14 @@
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hayeon's&nbsp;Github&fontSize=60)
-### Hi there 👋
+
 [![visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAYEONryu%2Fhit-counter&count_bg=%23E76798&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAYEONryu&layout=compact)
+<a href="https://github.com/HAYEONryu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAYEONryu&layout=compact></a> 
+<a href="https://github.com/HAYEONryu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=HAYEONryu&show_icons=true&hide_rank=true&custom_title=Hayeon's&nbsp;GitHub&nbsp;Stats&count_private=true" alt="Hayeon's GitHub Stats" /></a>
 
-![Hayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAYEONryu&show_icons=true&hide_rank=true&custom_title=Hayeon's&nbsp;GitHub&nbsp;Stats&count_private=true)
+### Hi there 👋
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Notion?style=flat&logo=notion&color=black">
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.linkedin.com/in/hayeon-ryu-643810258/">
