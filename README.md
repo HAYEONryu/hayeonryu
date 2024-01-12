@@ -5,6 +5,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAYEONryu&layout=compact)
 
 ![Hayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAYEONryu&show_icons=true)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HAYEONryu&repo=github-readme-stats)](https://github.com/HAYEONryu/github-readme-stats)
+
 <!--
 **HAYEONryu/hayeonryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <script src="https://gist.github.com/HAYEONryu/209e555c7752736de06260bfe27aa338.js"></script>
