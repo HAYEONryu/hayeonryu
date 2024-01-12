@@ -9,8 +9,6 @@
 
 <a href="https://github.com/HAYEONryu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAYEONryu&layout=compact" ></a> 
 
-<a href="https://github.com/HAYEONryu"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=HAYEONryu&show_icons=true&hide_rank=true&custom_title=Hayeon's&nbsp;GitHub&nbsp;Stats&count_private=true" alt="Hayeon's GitHub Stats" ></a> 
-
 ### Hi there 👋
 
 ## 📞 Contact 📞
