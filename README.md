@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAYEONryu&layout=compact)
 
-![Hayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAYEONryu&show_icons=true&hide_rank=true&custom_title=Hayeon's&nbspGitHub&nbspStats)
+![Hayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HAYEONryu&show_icons=true&hide_rank=true&custom_title=Hayeon's&nbsp;GitHub&nbsp;Stats)
 
 
 
