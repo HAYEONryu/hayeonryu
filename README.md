@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hayeon's&nbsp;Github&fontSize=60)
 ### Hi there 👋
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAYEONryu%2Fhit-counter&count_bg=%23E76798&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **HAYEONryu/hayeonryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![GITHUB](https://hits.HAYEONryu.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)
+
 
 Here are some ideas to get you started:
 
