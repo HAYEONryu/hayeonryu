@@ -42,6 +42,7 @@
 ![Oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=Oracle&logoColor=white&color=F80000)
 ![mysql badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
 ![Mssql badge](https://img.shields.io/badge/-MsSQL-%23F7DF1E?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=CC2927)
+<br>
 **[ Design ]**<br>
 ![figma badge](https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=F24E1E)
     
