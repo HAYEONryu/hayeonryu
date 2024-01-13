@@ -35,9 +35,9 @@
 ![Vue badge](https://img.shields.io/badge/-VUE-%23F7DF1E?style=flat-square&logo=mui&logoColor=white&color=007FFF)
 ![Bootstrap badge](https://img.shields.io/badge/-Bootstrap-%23F7DF1E?style=flat-square&logo=Bootstrap&logoColor=white&color=7952B3)<br>
 **[ Backend & DB ]**<br>
-//![django badge](https://img.shields.io/badge/-Django-%23F7DF1E?style=flat-square&logo=Django&logoColor=white&color=092E20)
+![Struts badge](https://img.shields.io/badge/-Struts-%23F7DF1E?style=flat-square&logo=scrutinizerci&logoColor=white&color=092E20)
 ![SpringBoot badge](https://img.shields.io/badge/-SpringBoot-%23F7DF1E?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F)
-![Struts badge](https://img.shields.io/badge/-Struts-%23F7DF1E?style=flat-square&logo=scrutinizerci&logoColor=white&color=339933) <br>
+![Spring badge](https://img.shields.io/badge/-Spring-%23F7DF1E?style=flat-square&logo=Spring&logoColor=white&color=339933) <br>
 ![Oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=Oracle&logoColor=white&color=F80000)
 ![mysql badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
 ![flutter badge](https://img.shields.io/badge/-Flutter-%23F7DF1E?style=flat-square&logo=Flutter&logoColor=white&color=47A248)<br>
