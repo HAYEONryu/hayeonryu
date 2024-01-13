@@ -26,7 +26,7 @@
 **[ Programming Languages ]**<br>
 ![python badge](https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB)
 ![javascript badge](https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![JAVA badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396)
+![JAVA badge](https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=47A248)
 <br>
 **[ Frontend ]**<br>
 ![HTML5 badge](https://img.shields.io/badge/-HTML5-%23F7DF1E?style=flat-square&logo=HTML5&logoColor=white&color=E34F26)
@@ -37,10 +37,11 @@
 **[ Backend & DB ]**<br>
 ![Struts badge](https://img.shields.io/badge/-Struts-%23F7DF1E?style=flat-square&logo=scrutinizerci&logoColor=white&color=092E20)
 ![SpringBoot badge](https://img.shields.io/badge/-SpringBoot-%23F7DF1E?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F)
-![Spring badge](https://img.shields.io/badge/-Spring-%23F7DF1E?style=flat-square&logo=Spring&logoColor=white&color=339933) <br>
+![Spring badge](https://img.shields.io/badge/-Spring-%23F7DF1E?style=flat-square&logo=Spring&logoColor=white&color=339933) 
+![flutter badge](https://img.shields.io/badge/-Flutter-%23F7DF1E?style=flat-square&logo=Flutter&logoColor=white&color=007396)<br>
 ![Oracle badge](https://img.shields.io/badge/-Oracle-%23F7DF1E?style=flat-square&logo=Oracle&logoColor=white&color=F80000)
 ![mysql badge](https://img.shields.io/badge/-MySQL-%23F7DF1E?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)
-![flutter badge](https://img.shields.io/badge/-Flutter-%23F7DF1E?style=flat-square&logo=Flutter&logoColor=white&color=47A248)<br>
+![Mssql badge](https://img.shields.io/badge/-MsSQL-%23F7DF1E?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=CC2927)
 **[ Design ]**<br>
 ![figma badge](https://img.shields.io/badge/-Figma-%23F7DF1E?style=flat-square&logo=Figma&logoColor=white&color=F24E1E)
     
